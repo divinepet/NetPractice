@@ -10,9 +10,8 @@
 
 ---
 
-Level 1:
 <details>
   <summary>Level 1</summary>
-  Абв
+  ![alt text](img/level1.jpg)
 </details>
 
