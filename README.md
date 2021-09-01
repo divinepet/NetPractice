@@ -1,5 +1,5 @@
 # NetPractice
-##### Проект учит соединять виртуальные сети друг с другом с использованием маршрутизаторов, коммутаторов и интернета
+#### <i>Проект учит соединять виртуальные сети друг с другом с использованием маршрутизаторов, коммутаторов и интернета</i>
 
 ### Основной материал
 [Протокол IP: Маршрутизация](https://www.youtube.com/watch?v=kZqqk1tixfk&t=505s)
@@ -11,5 +11,20 @@
 ---
 
 Level 1:
-<details>Покажи, что у тебя есть!</details>
+<details>
+  <summary>Заголовок</summary>
+  <p>Текст</p>
+</details>
 Level 2:
+
+<style>
+:active, :hover, :focus {
+    outline: 0;
+    outline-offset: 0;
+}
+
+details {
+    outline: 0;
+    outline-offset: 0;
+}
+</style>
