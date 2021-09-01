@@ -13,15 +13,9 @@
 <details>
   <summary>Level 1</summary>
   <img src="https://github.com/divinepet/NetPractice/blob/main/img/level1.png" alt="level1"></img>
-</details>
-
-<details>
   <summary>Level 2</summary>
   <img src="https://github.com/divinepet/NetPractice/blob/main/img/level2.png" alt="level1"></img>
-</details>
-
-<details>
   <summary>Level 3</summary>
-  <img src="https://github.com/divinepet/NetPractice/blob/main/img/level3.png" alt="level1"></img>
+   <img src="https://github.com/divinepet/NetPractice/blob/main/img/level3.png" alt="level1"></img>
 </details>
 
