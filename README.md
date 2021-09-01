@@ -12,6 +12,6 @@
 
 <details>
   <summary>Level 1</summary>
-  ![alt text](img/level1.jpg)
+  <img src="https://github.com/divinepet/NetPractice/blob/main/img/level1.png" alt="level1"></img>
 </details>
 
